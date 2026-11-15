@@ -25,7 +25,7 @@ Status
 
 Konzeptphase. Implementierung noch nicht begonnen.
 
-Konzeptionelle Vorarbeit veröffentlicht auf Zenodo (DOI folgt)
+Konzeptionelle Vorarbeit veröffentlicht auf Zenodo (DOI https://doi.org/10.5281/zenodo.24089907)
 
 Geplant: erste Teststufe mit gesunden Freiwilligen auf Fremd-API (Januar–Mai 2027); Implementierung der vier Schichten im Förderzeitraum (ab Juni 2027); Testlauf auf eigenem Substrat am GreenTEC Campus Enge-Sande
 Was Pallium nicht ist
