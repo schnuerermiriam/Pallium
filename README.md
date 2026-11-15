@@ -19,7 +19,7 @@ Verschlüsselter Speicher	Append-only, Schlüssel ausschließlich beim Patienten
 Sicherheitsschicht	Eigener Prozess ohne Zugriff auf Gesprächsinhalt; empfängt nur Zustandscodes und löst einstellbare Notrufketten aus (Matrix, SMS/SIP, Rufsysteme nach ESPA 4.4.4)
 Außenschicht	Schnittstellenspezifikation für Sensorik, Drittanwendungen und KIS/AIS (HL7 FHIR R4, HL7 v2)
 
-Details: Architecture
+Details: Architecture.md
 
 Status
 
